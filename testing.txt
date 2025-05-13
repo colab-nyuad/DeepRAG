@@ -1,0 +1,131 @@
+Query: rock salt sodium content health effects
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: The Rock Salt Powder is mostly red in color though its color may vary from light pink, orange, yellow or grey depending upon the amount and type of impurities present in it. Enhance your appetite and get relief from various digestive issues such as gas and bloating by high quality pure and natural rock salt powder. Well known in the market for its health benefits, the offered salt is 100% safe for human consumption and can be stored for long time. The offered salt is also good for the people who are suffering from high blood pressure as it stabilizes BP.
+Ground truth : Rock salt and sea salt are not healthier than regular salt as they contain the same amount of sodium chloride (100%). While sea salt may contain traces of other minerals, the levels are too low to provide any health benefits.
+Time taken for query 'rock salt sodium content health effects': 18.53 seconds
+
+-------------------------------------------------------
+
+Query: What is the scientific explanation for why men with many brothers are more likely to have sons themselves?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: According to the provided context, the scientific explanation for why men with many brothers are more likely to have sons themselves is related to sperm motility. Men who have a lot of brothers are more fertile, as indicated by faster sperm motility, which increases their chances of conceiving a child and having sons.
+Ground truth : This occurs because men inherit from their parents a tendency to have more sons or daughters. The research suggests there may be an undiscovered gene that controls whether the sperm contains more X or Y chromosomes. Men with more brothers are likely to have inherited the genetic combination that produces more Y sperm, thus leading to more male offspring.
+Time taken for query 'What is the scientific explanation for why men with many brothers are more likely to have sons themselves?': 5.48 seconds
+
+-------------------------------------------------------
+
+Query: What causes performance anxiety?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: Performance anxiety is typically caused by the fear of not performing sexually, which can affect sexual activity in various ways. Factors such as fear of a first sexual encounter, relationship problems, sexual dysfunction, and low self-esteem can lead to performance anxiety. Once a person fears or feels anxious about sex, it can lead to a preoccupation with the problem, resulting in even less sexual interaction or avoidance of sex altogether.
+Ground truth : Performance anxiety is caused by stress and anxiety about performing in front of people. It stems from confronting fears and vulnerabilities, and feeling like you need to prove yourself to others. The body reacts to this situation similarly to being attacked, triggering the 'fight-or-flight' mechanism.
+Time taken for query 'What causes performance anxiety?': 5.04 seconds
+
+-------------------------------------------------------
+
+Query: What are the key components needed in a five-light setup using ring flash for professional portrait photography?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: In a five-light setup using ring flash for professional portrait photography, key components typically include the main ring light for illuminating the subject, a beauty dish or softbox on a boom arm for fill lighting, a background light to highlight the backdrop, and hair lights on either side to separate the subject from the background and add dimension to the hair. Additionally, a snoot or grid spot may be used to control specific areas of light or create dramatic effects.
+Ground truth : The five-light setup consists of: 1) A 22-inch beauty dish as the main light, positioned close above the subject to create a triangle shadow under the nose; 2) An Alien Bees ring flash for fill light; 3) Two Creative Light 1'x4' softbox kickers with grids for controlled rim lighting, positioned 45 degrees to the rear of the subject; 4) An optional background light using a gridded speedlight at 1/32 power; and 5) A Westcott Illuminator Collapsible Disc Background (5'x6') which is reversible for black and white backgrounds.
+Time taken for query 'What are the key components needed in a five-light setup using ring flash for professional portrait photography?': 6.00 seconds
+
+-------------------------------------------------------
+
+Query: What kind of students does the Creative Classrooms program mainly work with and why?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Creative Classrooms primarily engages with English language learners and bilingual classrooms because they believe that kinesthetic engagement paired with literature is capable of transcending language barriers in the classroom and developing a deep understanding of the given content.
+Ground truth : Creative Classrooms primarily engages with English language learners and bilingual classrooms. They focus on these populations because they believe kinesthetic engagement paired with literature can transcend language barriers in the classroom and help develop a deep understanding of the content. Through this approach, these student populations can engage with literature in an enriching and empowering way.
+Time taken for query 'What kind of students does the Creative Classrooms program mainly work with and why?': 5.45 seconds
+
+-------------------------------------------------------
+
+Query: What are the key differences between disguised and undisguised observation methods when conducting research studies?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: Disguised observation involves the researcher observing participants without their knowledge, aiming to capture natural behavior, while undisguised observation is when participants are aware of being observed, which can lead to changes in behavior due to the Hawthorne effect. Disguised observation is often used in naturalistic studies, whereas undisguised observation might be employed when researchers want participants to be aware and potentially modify their behavior for study purposes.
+Ground truth : In disguised observation, respondents are unaware they are being observed, using techniques like one-way mirrors, hidden cameras, or observers disguised as shoppers or sales clerks. In contrast, with undisguised observation, respondents are aware they are under observation.
+Time taken for query 'What are the key differences between disguised and undisguised observation methods when conducting research studies?': 5.14 seconds
+
+-------------------------------------------------------
+
+Query: How do yeasts attract flies?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Yeasts attract flies by producing volatile acetate esters, which act as odor molecules. These compounds are responsible for the attraction of flies, leading them to disperse the yeasts into new environments.
+Ground truth : Yeasts attract flies by producing volatile acetate esters, specifically ethyl acetate (pear aroma), isoamyl acetate (banana aroma), and phenylethyl acetate (rose aroma). These volatile compounds are key in attracting flies which then act as vectors to disperse yeasts into new environments.
+Time taken for query 'How do yeasts attract flies?': 4.49 seconds
+
+-------------------------------------------------------
+
+Query: What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Ghost plants, also known as Indian pipes, are unique among other plants due to their ability to grow without chlorophyll, which means they do not rely on photosynthesis for energy. Instead, they derive nutrients from a symbiotic relationship with fungi in the soil. This characteristic, along with their striking white coloration, makes them intriguing and distinct from most other plants.
+Ground truth : The Ghost Plant, also known as Indian pipe or corpse plant, is unique because it contains no chlorophyll, which makes it appear completely white in color. It doesn't need light to grow and can survive in the darkest places. It's a parasitic plant that steals nutrients from neighboring plants through its roots and depends on specific fungi, trees, and decaying plant matter in the soil to survive.
+Time taken for query 'What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?': 6.03 seconds
+
+-------------------------------------------------------
+
+Query: How do Fizeau interferometer wavemeters work?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: A Fizeau interferometer uses two plane reflecting surfaces with a slight deviation from exact parallelity. For example, it can contain a glass wedge with a small angular mismatch of a few arcseconds, where the front surface is partially reflecting and the back surface is fully reflecting. This setup allows for the measurement of wavelengths by analyzing the interference pattern created by the reflected light beams.
+Ground truth : A Fizeau interferometer wavemeter uses two plane reflecting surfaces with a slight deviation from exact parallelity, such as a glass wedge with small angular mismatch. It superimposes two copies of the input beam with a slight relative angle, creating an interference pattern whose period depends on the wavelength. The pattern is measured with a CCD array and processed using a microprocessor.
+Time taken for query 'How do Fizeau interferometer wavemeters work?': 5.33 seconds
+
+-------------------------------------------------------
+
+Query: How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: To ensure that data stored in your memory palace remains uncorrupted and easily retrievable, commit a route through your memory palace by visualizing a familiar location and identifying specific places to store information. Use the method of loci, which involves associating data with physical landmarks in the visualized space. Regularly review and reinforce these associations to maintain data integrity and facilitate easy retrieval.
+Ground truth : To ensure uncorrupted data storage in your memory palace, you should build concrete memories by exaggerating the images of stored items and having them interact with their spatial locations. It helps to add sensory information like smell and hearing cues to the imagery. Humor and lewdness can also assist with committing data to memory. You can test data retrieval by having a friend read the original list while you recite it by walking through your memory palace, or by restoring the data to paper and comparing it with the original list. If you find any failures, you can rebalance the pathways and loci of your palace to improve data retrieval.
+Time taken for query 'How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?': 6.00 seconds
+
+-------------------------------------------------------
+
+
+===== SINGLE DOCUMENT QUESTIONS METRICS =====
+
+Retriever Metrics:
+{
+  "@1": {
+    "precision": 30.0,
+    "recall": 30.0,
+    "f1": 30.0
+  },
+  "@3": {
+    "precision": 13.33,
+    "recall": 40.0,
+    "f1": 20.0
+  },
+  "@5": {
+    "precision": 8.0,
+    "recall": 40.0,
+    "f1": 13.33
+  },
+  "@10": {
+    "precision": 4.0,
+    "recall": 40.0,
+    "f1": 7.27
+  }
+}
+
+Reader Metrics:
+{
+  "jaccard": 0.26,
+  "bleu": 0.13,
+  "rouge1": 0.4,
+  "rouge2": 0.18,
+  "rougeL": 0.3,
+  "relevance": 1.9,
+  "faithfulness": 0.3
+}
+Total time taken for all queries: 67.48 seconds
+
+Average time per query: 6.75 seconds
+

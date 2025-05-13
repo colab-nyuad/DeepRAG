@@ -1,0 +1,195 @@
+Query: rock salt sodium content health effects
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: The Rock Salt Powder intake detoxifies the body by maintaining its pH balance. It improves hydration and replenishes the minerals in the body. It is also crucial for the body as it helps balance the blood sugar levels and can stabilize blood pressure. Consumption of this salt will boost your immunity and may also give relief from various respiratory problems.
+{
+  "relevance": 1
+}
+[('<urn:uuid:de2103fc-3673-4962-b651-e0f332ce396a>', 'Rock Salt Powder\nThe Rock Salt Powder intake detoxifies the body by maintaining its pH balance. It improves hydration and replenishes the minerals in the body. It is also crucial for the body as it helps balance the blood sugar levels. The Rock Salt Powder is mostly red in color though its color may vary from light pink, orange, yellow or grey depending upon the amount and type of impurities present in it.\nEnhance your appetite and get relief from various digestive issues such as gas and bloating by high quality pure and natural rock salt powder. Well known in the market for its health benefits, the offered salt is 100% safe for human consumption and can be stored for long time. The offered salt is also good for the people who are suffering from high blood pressure as it stabilizes BP. Consumption of this salt will boost your immunity and may also give relief from various respiratory problems.')]
+Ground truth : Rock salt and sea salt are not healthier than regular salt as they contain the same amount of sodium chloride (100%). While sea salt may contain traces of other minerals, the levels are too low to provide any health benefits.
+{"jaccard": 0.1323529411764706, "bleu": 0.029907454155175785, "rouge1": 0.21999999999999997, "rouge2": 0.02040816326530612, "rougeL": 0.16, "relevance": 1, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'rock salt sodium content health effects': 17.25 seconds
+
+-------------------------------------------------------
+
+Query: What is the scientific explanation for why men with many brothers are more likely to have sons themselves?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: According to new research, men who have a lot of brothers are more fertile than other men, as determined by sperm motility. A man's sperm motility roughly refers to the speed of his sperm; the faster a man's sperm, the more fertile he is and the easier time he will have conceiving a child.
+{
+  "relevance": 2
+}
+[('<urn:uuid:376c20e2-ca25-4cf4-8e01-5eb168e7f9fb>', 'How can a woman tell if a man will give her a big family? Just count how many brothers he has.\nNew research indicates men who have a lot of brothers are more fertile than other men, as determined by sperm motility.\nA man’s sperm “motility” roughly refers to the speed of his sperm. The faster a man’s sperm, the more fertile he is and the easier time he will have conceiving a child.\nWhile it takes high fertility levels from both a man and a woman to conceive quickly, researchers note it’s much easier to measure a man’s fertility than a woman’s, which explains why it’s difficult to say whether a woman with many sisters will benefit from similarly enhanced reproductive capabilities.\nHowever, measuring a man’s sperm motility is relatively easy, and Dr. Jim Mossman, of Brown University, reached his conclusions by looking at 500 men to identify a link between motility and family makeup.\nMossman noted the study is one of the first to draw a potentially important connection between genetics and fertility, hypothesizing that women with many sisters may experience a similar boon to conception.\nBut Mossman suggested further research needs to be completed to determine whether the connection between male siblings and motility extends beyond humans and describes a universal pattern within nature.\nSource: The Asian Journal of Andrology. Photo source: cbsnewyorkfiles.wordpress.com')]
+Warning: Unexpected faithfulness score 2. Clamping to valid range.
+Ground truth : This occurs because men inherit from their parents a tendency to have more sons or daughters. The research suggests there may be an undiscovered gene that controls whether the sperm contains more X or Y chromosomes. Men with more brothers are likely to have inherited the genetic combination that produces more Y sperm, thus leading to more male offspring.
+{"jaccard": 0.1323529411764706, "bleu": 0.04393531223753628, "rouge1": 0.2956521739130435, "rouge2": 0.017699115044247787, "rougeL": 0.1565217391304348, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What is the scientific explanation for why men with many brothers are more likely to have sons themselves?': 6.21 seconds
+
+-------------------------------------------------------
+
+Query: What causes performance anxiety?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Performance anxiety is typically caused by psychological factors, primarily the fear of not performing sexually well. This fear can be triggered by various situations such as a first sexual encounter, relationship issues, sexual dysfunction, or low self-esteem. Once a person becomes anxious about sex, this preoccupation often leads to less sexual interaction or avoidance of sex altogether.
+{
+  "relevance": 2
+}
+[('<urn:uuid:c8ecb738-73c3-4673-b566-e12f468485ce>', 'Learn about the causes of Performance Anxiety & find a practitioner in Auckland, Hamilton, Bay of\nPlenty, Wellington, Christchurch, Dunedin to help you overcome Performance Anxiety within New\nTherapies which may benefit Performance Anxiety\nPerformance anxiety is a fear of sexual activity and the associated\npressure to perform sexually. Performance anxiety can result in an\nemotional block on sexual thoughts and intimate feelings and avoidance\ntactics to prevent being engaged in sexual activity. Performance\nanxiety can lead to low self-esteem, relationship problems, vaginal\nlubrication and erectile dysfunction.\nCauses of performance anxiety\nPerformance anxiety can be\ncaused by physical or biological conditions but in the majority of\ncases the problem is psychological. Performance anxiety is caused by\nthe fear of not performing sexually which can affect sexual activity in\na number of ways.\nfear of a first sexual encounter can cause anxiety which then affects\nperformance. Relationship problems, sexual dysfunction and low\nself-esteem can also lead to performance anxiety. Once a person fears\nor feels anxious about sex, that awareness encourages a preoccupation\nwith the problem leading to even less sexual interaction or avoidance\nof sex altogether.\nWhen the anticipation of sex triggers anxiety\nand is then coupled with a previous memory of sexual failure, avoidance\nof sex with a partner is common. This can be seen as rejection but it\nis actually a way for the person who is suffering with performance\nanxiety to regain control and feel less guilty about their perceived\nSymptoms of performance anxiety\nThe first symptom of performance anxiety is an avoidance or loss of\ninterest in sex. Performance anxiety can also cause, or be caused by:\nanxiety can affect both sexes but is more common in men. Women who\nsuffer with sexual performance anxiety may need to use vaginal\nlubrication in order to have sex comfortably.\n- Sexual dysfunction (e.g. erectile dysfunction)\n- Low self-esteem\n- Taking medications\n- Excessive alcohol consumption\n- Relationship problems\nDiagnosis of performance anxiety\nMany people feel embarrassed that they are unable to perform sexually\nbut it is important to seek medical help to overcome your problems.\nYour GP will first attempt to rule out any physical underlying cause\nbut if your problem is psychological, you (and sometimes your partner)\nmay be referred to a mental health expert who specialises in sexual\nhealth to find the root cause of your anxieties.\n© The Wellness Directory Limited, All Rights Reserved.')]
+Ground truth : Performance anxiety is caused by stress and anxiety about performing in front of people. It stems from confronting fears and vulnerabilities, and feeling like you need to prove yourself to others. The body reacts to this situation similarly to being attacked, triggering the 'fight-or-flight' mechanism.
+{"jaccard": 0.15789473684210525, "bleu": 0.05295296385067158, "rouge1": 0.22857142857142854, "rouge2": 0.05825242718446602, "rougeL": 0.1714285714285714, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What causes performance anxiety?': 6.22 seconds
+
+-------------------------------------------------------
+
+Query: What are the key components needed in a five-light setup using ring flash for professional portrait photography?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: For a five-light setup using ring flash in professional portrait photography, you would typically include the main ring light for even illumination, a beauty or fill light to soften shadows, a hair light for defining the subject's hair, and a background light to illuminate the backdrop. Additionally, a small accent light might be used to highlight specific features. Each light should be carefully positioned and adjusted to complement the others and achieve the desired effect on the subject.
+{
+  "relevance": 2
+}
+[('<urn:uuid:1fb116f5-844f-4986-9827-2532b1c6511d>', 'Ring lights use LED light to reduce shadow in portraiture. They run using an AC adapter or batteries, depending on the model. Ring lights provide even lighting for headshots, wedding photography, and family portraits, and make the subject the primary focus of the photo.\nB&H Photo and Video has flash diffusers, ring lights, TTL cords, and accessories to create the ideal lighting for photography and recording. Consider a camera case, flash pouch, lens bag, or other protective equipment to save your investment.')]
+Ground truth : The five-light setup consists of: 1) A 22-inch beauty dish as the main light, positioned close above the subject to create a triangle shadow under the nose; 2) An Alien Bees ring flash for fill light; 3) Two Creative Light 1'x4' softbox kickers with grids for controlled rim lighting, positioned 45 degrees to the rear of the subject; 4) An optional background light using a gridded speedlight at 1/32 power; and 5) A Westcott Illuminator Collapsible Disc Background (5'x6') which is reversible for black and white backgrounds.
+{"jaccard": 0.16326530612244897, "bleu": 0.035578467532462, "rouge1": 0.3953488372093023, "rouge2": 0.09411764705882354, "rougeL": 0.20930232558139536, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What are the key components needed in a five-light setup using ring flash for professional portrait photography?': 5.91 seconds
+
+-------------------------------------------------------
+
+Query: What kind of students does the Creative Classrooms program mainly work with and why?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: The Creative Classrooms program works with students of all ages, including adults, children, teens, and toddlers 2 and up, because they believe that everyone is creative and nurturing creativity is their top priority. They offer different times and dates to accommodate everyone, focusing on teaching creative thinking and problem-solving skills in various aspects of life.
+{
+  "relevance": 2
+}
+[('<urn:uuid:1ad6dae2-4f43-4b0c-b7c9-8a28b25d6f42>', "Different kinds of creative classes with student focused teachers\nBilingual 1 to 2.5 hour long classes to allow time for creative thinking.\nOne teacher every 5 students in our children’s art classes\nMany different times & dates to accommodate everyone.\nClasses for every age including adults, children, teens and toddlers 2 and up.\nWe teach to think outside the box.\nEveryone is creative. Nurturing creativity is our #1 priority\nThere are many ways to create, not just in art but in science too\nRespect for individual differences is essential\nThinking creatively helps in problem solving in every aspect of life\nWhen the student is excited by the project techniques will be easier to learn\nArt Classes Available: We have art classes for kids, toddlers, teens and adults as well as special classes such as, photography, comic and cartoon, Homeschooler's Group, Explore with your Toddler, Afterschool at the Art Shack and artist portfolio prep")]
+Ground truth : Creative Classrooms primarily engages with English language learners and bilingual classrooms. They focus on these populations because they believe kinesthetic engagement paired with literature can transcend language barriers in the classroom and help develop a deep understanding of the content. Through this approach, these student populations can engage with literature in an enriching and empowering way.
+{"jaccard": 0.14473684210526316, "bleu": 0.05778321719122542, "rouge1": 0.25, "rouge2": 0.05454545454545454, "rougeL": 0.16071428571428573, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What kind of students does the Creative Classrooms program mainly work with and why?': 7.57 seconds
+
+-------------------------------------------------------
+
+Query: What are the key differences between disguised and undisguised observation methods when conducting research studies?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: The key differences between disguised and undisguised observation methods in research studies lie in the level of researcher involvement and the awareness of the subjects being observed. In disguised observation, researchers attempt to blend in and observe participants without revealing their true intentions, aiming to capture natural behaviors. Conversely, in undisguised observation, the researcher openly declares their role and objectives, which can lead to participants modifying their behavior due to the knowledge of being observed. Disguised observation is often used when studying sensitive or private behaviors, whereas undisguised observation is suitable for situations where transparency is valued or when the focus is on participant interaction with the observer.
+{
+  "relevance": 2
+}
+[('<urn:uuid:9b15550c-1188-46aa-a3b4-1141c109a66f>', 'Deductive approach mostly comes in quantitative research where the researcher attempts to bring out causality and present a statistical analysis. This highlights that inductive and deductive research are vastly different and can be used depending on the objectives of the researcher.\nWhat is the difference between Inductive and Deductive Research?\n• Inductive and deductive research processes have to be viewed as reversals.\n• Inductive research uses a bottom-up approach.\n• Deductive research uses a top-down approach.\n• The inductive research aims at producing new knowledge or creating new theories.\n• The deductive research aims at verifying theories.\n• In inductive research, researcher mainly focuses on finding answers to the research questions.\n• In deductive research, hypothesis are tested.\n• The inductive approach is mostly used in qualitative research that aims at finding rich descriptive data.\n• The deductive approach is mostly used in quantitative research that mostly deals with numbers.\n• Use of Observation:\n• In inductive research, the researcher attempts to find patterns through observation.\n• In deductive research, the researcher uses observation with the intention of validating the pattern.')]
+Ground truth : In disguised observation, respondents are unaware they are being observed, using techniques like one-way mirrors, hidden cameras, or observers disguised as shoppers or sales clerks. In contrast, with undisguised observation, respondents are aware they are under observation.
+{"jaccard": 0.0898876404494382, "bleu": 0.051532547502236105, "rouge1": 0.1780821917808219, "rouge2": 0.055555555555555546, "rougeL": 0.1232876712328767, "relevance": 2, "faithfulness": -1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What are the key differences between disguised and undisguised observation methods when conducting research studies?': 7.28 seconds
+
+-------------------------------------------------------
+
+Query: How do yeasts attract flies?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Yeasts attract flies through the expression of the fungal aroma gene ATF1, which promotes the dispersal of yeast cells through insect vectors.
+{
+  "relevance": 2
+}
+[('<urn:uuid:a0314bea-7eda-485c-adb5-89ace86948ab>', 'The fungal aroma gene ATF1 promotes dispersal of yeast cells through insect vector. Cell (2):425-32.\nGoddard MR, Greig D. (2015). Saccharomyces cerevisiae: a nomadic yeast with no niche? FEMS Yeast Research pii: fov009. [Epub ahead of print]')]
+Ground truth : Yeasts attract flies by producing volatile acetate esters, specifically ethyl acetate (pear aroma), isoamyl acetate (banana aroma), and phenylethyl acetate (rose aroma). These volatile compounds are key in attracting flies which then act as vectors to disperse yeasts into new environments.
+{"jaccard": 0.13333333333333333, "bleu": 0.03596218762939032, "rouge1": 0.19047619047619044, "rouge2": 0.0655737704918033, "rougeL": 0.19047619047619044, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 100.0, "recall": 100.0, "f1": 100.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How do yeasts attract flies?': 5.46 seconds
+
+-------------------------------------------------------
+
+Query: What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: The Ghost Plant, also known as Indian pipes, is unique among other plants in terms of its survival mechanisms due to its ability to thrive in low-light conditions and its lack of chlorophyll. This allows it to survive without photosynthesis, instead deriving nutrients from a symbiotic relationship with the roots of nearby trees through mycorrhizal fungi.
+{
+  "relevance": 2
+}
+[('<urn:uuid:bc539883-4924-4e93-be2a-c3d4071203e6>', 'Ghost plants, also known as Indian pipes, are unique and intriguing plants known for their striking white coloration. However, they can fall prey to nematodes, tiny roundworms that can cause significant damage to the roots of the plant. If left unchecked, nematodes can stunt the growth of the ghost plant and eventually kill it. Fortunately, there are several methods you can use to get rid of nematodes on ghost plants.\nMethod 1: Crop Rotation\nOne of the most effective ways to prevent nematode infestation is crop rotation. This method involves alternating the type of crop planted in a particular area each growing season. By doing so, you can reduce the risk of nematodes building up in the soil, as different crops require different nutrients, and nematodes are specific to certain crops.\nTo implement crop rotation, avoid planting ghost plants or other susceptible crops in the same location for more than one growing season. Instead, switch to a different crop that doesn’t attract nematodes. You can also consider planting a cover crop like clover or rye grass to improve soil health and deter nematodes.\nMethod 2: Soil Solarization\nAnother effective method for getting rid of nematodes on ghost plants is soil solarization. This method involves covering the soil with clear plastic and allowing it to heat up under the sun’s rays. The high temperatures will kill off nematodes and other harmful organisms in the soil.\nTo perform soil solarization, first, clear the area around the ghost plant of any debris like rocks or sticks. Then moisten the soil with water and cover it with clear plastic. Make sure to secure the edges of the plastic with weights or stakes so that no air can escape. Leave the plastic in place for four to six weeks during hot summer weather for maximum effect.\nMethod 3: Biological Control\nBiological control involves using natural predators or pathogens to control nematode populations. This method can be effective in reducing nematode populations without the use of harmful chemicals.\nOne way to implement biological control is to introduce beneficial nematodes to the soil. These nematodes prey on harmful nematodes, effectively reducing their numbers. You can purchase beneficial nematodes online or at a garden center.\nAnother option is to use plant extracts like neem oil or garlic to deter nematodes.')]
+Ground truth : The Ghost Plant, also known as Indian pipe or corpse plant, is unique because it contains no chlorophyll, which makes it appear completely white in color. It doesn't need light to grow and can survive in the darkest places. It's a parasitic plant that steals nutrients from neighboring plants through its roots and depends on specific fungi, trees, and decaying plant matter in the soil to survive.
+{"jaccard": 0.3157894736842105, "bleu": 0.15430456188455866, "rouge1": 0.4444444444444445, "rouge2": 0.14516129032258066, "rougeL": 0.2698412698412698, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?': 7.40 seconds
+
+-------------------------------------------------------
+
+Query: How do Fizeau interferometer wavemeters work?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Fizeau interferometer wavemeters work by measuring the intensity fluctuations of the interference pattern while one external arm mirror is moved and its position is logged, allowing for the determination of the wavelength of the incoming light.
+{
+  "relevance": 2
+}
+[('<urn:uuid:d245c439-b9db-440e-9dbb-ba924a2faa67>', 'What is an Interferometer and how does it work?\nAn interferometer is a measurement device that uses coherent light and creates a superposition of two light beams which is called interference. The Michelson Interferometer is a simple type of interferometer which needs only few optical components, is easy to align and thus is widely used for many applications. A sketch of a typical setup is shown in Fig. 1.\nTo take advantage of the interference effect a coherent light source is essential. Usually a monochromatic laser is used. Both, continuous wave as well as pulsed lasers can be used.The incoming beam hits a thin beam-splitter and its intensity amplitude is split into two weaker beams. Each of these beams is reflected back to the thin beam splitter by an adjustable mirror, where the beams are combined again. If the phase difference of the two light beams is zero, the two beams will interfere constructively, and a high intensity signal will be measured on the photodetector. In contrast, if the phase difference is half the wavelength of the light the two beams will cancel, and the detector signal will drop to zero. As the phase difference of the two light beams depends on the difference of their optical beam path, slight changes of the distance between one of the mirrors and the beam-splitter result in strong intensity modulations on the photodetector.\nThe sensitivity of these intensity modulations on the optical delay naturally depends on the wavelength used in the spectrometer. For example, when using a standard Helium-neon alignment laser with wavelength of 633 nm a change in the optical path difference of only 317.5 nm will change the interference signal on the detector from maximum to minimum or vice versa. This illustrates the extreme sensitivity of this measurement technique.\nWhat can I use it for?\nDue to its ability to measure changes in the optical pathlength difference of the two interferometer arms with\nnanometer precision, interferometers are often used for highly demanding distance measurements and positioning tasks. One of the mirrors is kept fixed and the movement of the other one which is part of the positioning system is monitored by observing changes in the interference pattern.\nAnother very important application is the determination of the wavelength of the incoming light. For this purpose, the intensity fluctuations of the interference pattern are monitored while one external arm mirror (e.g. mirror 2 in Fig. 1) is moved and its position is logged.')]
+Warning: Unexpected faithfulness score 2. Clamping to valid range.
+Ground truth : A Fizeau interferometer wavemeter uses two plane reflecting surfaces with a slight deviation from exact parallelity, such as a glass wedge with small angular mismatch. It superimposes two copies of the input beam with a slight relative angle, creating an interference pattern whose period depends on the wavelength. The pattern is measured with a CCD array and processed using a microprocessor.
+{"jaccard": 0.13432835820895522, "bleu": 0.03625632420652448, "rouge1": 0.22680412371134023, "rouge2": 0.08421052631578947, "rougeL": 0.18556701030927836, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'How do Fizeau interferometer wavemeters work?': 5.98 seconds
+
+-------------------------------------------------------
+
+Query: How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: To ensure that the data stored in your memory palace remains uncorrupted and easily retrievable, it is crucial to maintain a well-trained and disciplined memory. Regularly review and practice recalling the data within your memory palace. If you find it challenging to scale or run out of memory palaces, consider deleting old data by either removing items or overwriting with new inconsequential data until the original memory fades. This way, you keep your memory palaces organized and manageable, ensuring easy retrievability of stored information.
+{
+  "relevance": 2
+}
+[('<urn:uuid:e43a8cc4-d7b4-44e5-8c8e-b676490aeccf>', 'Although there may be corporeal restraints to your biological data storage, at this point you can recall this data at any location and point in time that you physically are. This data is therefore as portable as you are without being cloud-reliant.\nWith your first memory palace committed to memory, you can work to horizontally scale your data stores by memorizing new memory palaces based on other physical spaces you know very well. For additional scaling, you can visit new physical spaces you come across Within these palaces, you can store additional data as needed.\nWhen you run out of memory palaces, or it becomes challenging to scale, it is important to delete the data within your memory palace. There are different approaches to this. You may want to walk through the palace to “clean up” and remove each item stored in memory. Alternatively, you can attempt to write over data with new, inconsequential data until the original memory fades.\nWith a trained and disciplined memory, you can successfully back up, restore, and migrate data without any additional hardware.\nIf you find that memory palaces aren’t for you, you can always consider alternative methods of data storage, such as cloud block storage and object storage services.')]
+Ground truth : To ensure uncorrupted data storage in your memory palace, you should build concrete memories by exaggerating the images of stored items and having them interact with their spatial locations. It helps to add sensory information like smell and hearing cues to the imagery. Humor and lewdness can also assist with committing data to memory. You can test data retrieval by having a friend read the original list while you recite it by walking through your memory palace, or by restoring the data to paper and comparing it with the original list. If you find any failures, you can rebalance the pathways and loci of your palace to improve data retrieval.
+{"jaccard": 0.20952380952380953, "bleu": 0.08836207271071454, "rouge1": 0.4205128205128206, "rouge2": 0.11398963730569948, "rougeL": 0.24615384615384617, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 100.0, "recall": 100.0, "f1": 100.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?': 8.06 seconds
+
+-------------------------------------------------------
+
+Average Retriever Metrics:
+{
+  "@1": {
+    "precision": 20.0,
+    "recall": 20.0,
+    "f1": 20.0
+  },
+  "@3": {
+    "precision": 6.6659999999999995,
+    "recall": 20.0,
+    "f1": 10.0
+  },
+  "@5": {
+    "precision": 4.0,
+    "recall": 20.0,
+    "f1": 6.6659999999999995
+  },
+  "@10": {
+    "precision": 2.0,
+    "recall": 20.0,
+    "f1": 3.636
+  }
+}
+
+-------------------------------------------------------
+
+Average Reader Metrics:
+{
+  "jaccard": 0.16134653826225054,
+  "bleu": 0.058657510890049516,
+  "rouge1": 0.2849892210619392,
+  "rouge2": 0.07095135870897265,
+  "rougeL": 0.1873292909868149,
+  "relevance": 1.9,
+  "faithfulness": 0.6
+}
+
+-------------------------------------------------------
+
+Total time taken for all queries: 77.34 seconds
+
+Average time per query: 7.73 seconds
+

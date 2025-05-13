@@ -1,0 +1,153 @@
+Query: rock salt sodium content health effects
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: The great thing about pink rock salt is it also contains the minerals boron and potassium - which are both needed for the absorption of magnesium and calcium - in a highly absorbable form (colloidal form). Of course, pink rock salt also contains sodium or salt (in a safe form that doesn't raise blood pressure) which is needed to prevent and treat muscle cramps.
+Ground truth : Rock salt and sea salt are not healthier than regular salt as they contain the same amount of sodium chloride (100%). While sea salt may contain traces of other minerals, the levels are too low to provide any health benefits.
+{"jaccard": 0.13636363636363635, "bleu": 0.03425588841512764, "rouge1": 0.2524271844660194, "rouge2": 0.019801980198019802, "rougeL": 0.17475728155339804, "relevance": 1, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'rock salt sodium content health effects': 18.53 seconds
+
+-------------------------------------------------------
+
+Query: What is the scientific explanation for why men with many brothers are more likely to have sons themselves?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: New research indicates men who have a lot of brothers are more fertile than other men, as determined by sperm motility. A man’s sperm motility roughly refers to the speed of his sperm. The faster a man’s sperm, the more fertile he is and the easier time he will have conceiving a child.
+Ground truth : This occurs because men inherit from their parents a tendency to have more sons or daughters. The research suggests there may be an undiscovered gene that controls whether the sperm contains more X or Y chromosomes. Men with more brothers are likely to have inherited the genetic combination that produces more Y sperm, thus leading to more male offspring.
+{"jaccard": 0.1323529411764706, "bleu": 0.047725182225451586, "rouge1": 0.2807017543859649, "rouge2": 0.017857142857142856, "rougeL": 0.14035087719298245, "relevance": 1, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What is the scientific explanation for why men with many brothers are more likely to have sons themselves?': 5.76 seconds
+
+-------------------------------------------------------
+
+Query: What causes performance anxiety?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: Performance anxiety can be caused by physical or biological conditions, but in most cases, the problem is psychological. It is caused by the fear of not performing sexually, which can affect sexual activity in several ways. Fear of a first sexual encounter, relationship problems, sexual dysfunction, and low self-esteem can lead to performance anxiety.
+Ground truth : Performance anxiety is caused by stress and anxiety about performing in front of people. It stems from confronting fears and vulnerabilities, and feeling like you need to prove yourself to others. The body reacts to this situation similarly to being attacked, triggering the 'fight-or-flight' mechanism.
+{"jaccard": 0.19117647058823528, "bleu": 0.06218321894590895, "rouge1": 0.29411764705882354, "rouge2": 0.06, "rougeL": 0.19607843137254902, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What causes performance anxiety?': 5.83 seconds
+
+-------------------------------------------------------
+
+Query: What are the key components needed in a five-light setup using ring flash for professional portrait photography?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: In a five-light setup using ring flash for professional portrait photography, you would typically need: 1) A ring light for the main light source to provide even lighting and minimize shadows. 2) A softbox or umbrella with an off-camera flash for fill light to balance the shadows. 3) A hair light, often provided by a separate spotlight or reflector to define the subject's hair and separate them from the background. 4) Background lights to illuminate the backdrop evenly. 5) Possibly a clamshell or beauty dish to add catchlights to the eyes of the subject, enhancing the portrait's depth and realism.
+Ground truth : The five-light setup consists of: 1) A 22-inch beauty dish as the main light, positioned close above the subject to create a triangle shadow under the nose; 2) An Alien Bees ring flash for fill light; 3) Two Creative Light 1'x4' softbox kickers with grids for controlled rim lighting, positioned 45 degrees to the rear of the subject; 4) An optional background light using a gridded speedlight at 1/32 power; and 5) A Westcott Illuminator Collapsible Disc Background (5'x6') which is reversible for black and white backgrounds.
+{"jaccard": 0.20588235294117646, "bleu": 0.11101338511519396, "rouge1": 0.45918367346938777, "rouge2": 0.1443298969072165, "rougeL": 0.25510204081632654, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What are the key components needed in a five-light setup using ring flash for professional portrait photography?': 7.32 seconds
+
+-------------------------------------------------------
+
+Query: What kind of students does the Creative Classrooms program mainly work with and why?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: Creative Classrooms primarily works with English language learners and bilingual classrooms because they believe that kinesthetic engagement paired with literature is capable of transcending language barriers in the classroom and developing a deep understanding of the content.
+Ground truth : Creative Classrooms primarily engages with English language learners and bilingual classrooms. They focus on these populations because they believe kinesthetic engagement paired with literature can transcend language barriers in the classroom and help develop a deep understanding of the content. Through this approach, these student populations can engage with literature in an enriching and empowering way.
+{"jaccard": 0.5, "bleu": 0.3285099929232271, "rouge1": 0.6451612903225806, "rouge2": 0.5274725274725275, "rougeL": 0.6451612903225806, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'What kind of students does the Creative Classrooms program mainly work with and why?': 4.81 seconds
+
+-------------------------------------------------------
+
+Query: What are the key differences between disguised and undisguised observation methods when conducting research studies?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: Disguised observation involves the researcher blending in and observing participants without their knowledge, while undisguised observation involves the researcher openly conducting observations. Disguised observation can lead to more natural behavior but raises ethical concerns about informed consent, whereas undisguised observation ensures transparency but may influence participant behavior due to the awareness of being observed.
+Ground truth : In disguised observation, respondents are unaware they are being observed, using techniques like one-way mirrors, hidden cameras, or observers disguised as shoppers or sales clerks. In contrast, with undisguised observation, respondents are aware they are under observation.
+{"jaccard": 0.09375, "bleu": 0.04169104327197615, "rouge1": 0.1956521739130435, "rouge2": 0.06666666666666668, "rougeL": 0.13043478260869565, "relevance": 2, "faithfulness": -1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What are the key differences between disguised and undisguised observation methods when conducting research studies?': 5.52 seconds
+
+-------------------------------------------------------
+
+Query: How do yeasts attract flies?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Yeasts attract flies by producing volatile acetate esters such as ethyl acetate, isoamyl acetate, and phenylethyl acetate, which elicit specific aromas like pear, banana, and rose. These compounds are detected by flies and serve as attractants, leading to the dispersal of yeasts into new environments via the flies.
+Ground truth : Yeasts attract flies by producing volatile acetate esters, specifically ethyl acetate (pear aroma), isoamyl acetate (banana aroma), and phenylethyl acetate (rose aroma). These volatile compounds are key in attracting flies which then act as vectors to disperse yeasts into new environments.
+{"jaccard": 0.5217391304347826, "bleu": 0.28646290158800986, "rouge1": 0.6516853932584269, "rouge2": 0.3448275862068966, "rougeL": 0.5842696629213483, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 100.0, "recall": 100.0, "f1": 100.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How do yeasts attract flies?': 5.20 seconds
+
+-------------------------------------------------------
+
+Query: What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: The Ghost Plant, also known as Indian pipes, is unique among other plants in terms of its survival mechanisms because it lacks chlorophyll and cannot photosynthesize like most plants. Instead, it relies on a symbiotic relationship with certain fungi in the soil to obtain nutrients, allowing it to survive in environments where other plants might not thrive.
+Ground truth : The Ghost Plant, also known as Indian pipe or corpse plant, is unique because it contains no chlorophyll, which makes it appear completely white in color. It doesn't need light to grow and can survive in the darkest places. It's a parasitic plant that steals nutrients from neighboring plants through its roots and depends on specific fungi, trees, and decaying plant matter in the soil to survive.
+{"jaccard": 0.2857142857142857, "bleu": 0.18611794398684675, "rouge1": 0.46031746031746035, "rouge2": 0.20967741935483872, "rougeL": 0.3333333333333333, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?': 6.44 seconds
+
+-------------------------------------------------------
+
+Query: How do Fizeau interferometer wavemeters work?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: A Fizeau interferometer uses two plane reflecting surfaces with a slight deviation from exact parallelity, such as a glass wedge with a small angular mismatch. The front surface is partially reflecting and the back surface is fully reflecting. This setup allows for precise wavelength measurements by analyzing the interference pattern created by the light reflected from these surfaces.
+Ground truth : A Fizeau interferometer wavemeter uses two plane reflecting surfaces with a slight deviation from exact parallelity, such as a glass wedge with small angular mismatch. It superimposes two copies of the input beam with a slight relative angle, creating an interference pattern whose period depends on the wavelength. The pattern is measured with a CCD array and processed using a microprocessor.
+{"jaccard": 0.40625, "bleu": 0.38048493003572775, "rouge1": 0.5546218487394958, "rouge2": 0.39316239316239315, "rougeL": 0.48739495798319327, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 100.0, "recall": 100.0, "f1": 100.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How do Fizeau interferometer wavemeters work?': 5.07 seconds
+
+-------------------------------------------------------
+
+Query: How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: To ensure that the data stored in your memory palace remains uncorrupted and easily retrievable, commit a clear route through your Memory Palace and identify distinct data stores within it. Regularly review and reinforce the data in your Memory Palace, as mental repetition and engagement with the stored information can help maintain its integrity. Additionally, use mnemonic devices or vivid associations to encode the data, making it easier to recall accurately and completely when needed.
+Ground truth : To ensure uncorrupted data storage in your memory palace, you should build concrete memories by exaggerating the images of stored items and having them interact with their spatial locations. It helps to add sensory information like smell and hearing cues to the imagery. Humor and lewdness can also assist with committing data to memory. You can test data retrieval by having a friend read the original list while you recite it by walking through your memory palace, or by restoring the data to paper and comparing it with the original list. If you find any failures, you can rebalance the pathways and loci of your palace to improve data retrieval.
+{"jaccard": 0.1650485436893204, "bleu": 0.05236519190062807, "rouge1": 0.4, "rouge2": 0.09836065573770492, "rougeL": 0.22702702702702704, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 100.0, "recall": 100.0, "f1": 100.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?': 5.34 seconds
+
+-------------------------------------------------------
+
+Average Retriever Metrics:
+{
+  "@1": {
+    "precision": 30.0,
+    "recall": 30.0,
+    "f1": 30.0
+  },
+  "@3": {
+    "precision": 13.331999999999999,
+    "recall": 40.0,
+    "f1": 20.0
+  },
+  "@5": {
+    "precision": 8.0,
+    "recall": 40.0,
+    "f1": 13.331999999999999
+  },
+  "@10": {
+    "precision": 4.0,
+    "recall": 40.0,
+    "f1": 7.272
+  }
+}
+
+-------------------------------------------------------
+
+Average Reader Metrics:
+{
+  "jaccard": 0.26382773609079074,
+  "bleu": 0.15308096784080977,
+  "rouge1": 0.4193868425931203,
+  "rouge2": 0.1882156268563407,
+  "rougeL": 0.3173909685131434,
+  "relevance": 1.8,
+  "faithfulness": 0.4
+}
+
+-------------------------------------------------------
+
+Total time taken for all queries: 69.83 seconds
+
+Average time per query: 6.98 seconds
+

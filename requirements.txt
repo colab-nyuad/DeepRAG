@@ -1,0 +1,19 @@
+# Existing libraries (ensure these are present)
+numpy
+networkx
+tqdm
+sentence-transformers # Keep for now if query_expansion_ola still uses it indirectly, otherwise remove
+# ollama # If using ollama provider for query expansion
+
+# Added for SPLADE
+transformers
+torch
+accelerate # Often recommended for transformers
+
+# Added for FlashRank
+flashrank
+
+# Added for Integer Programming Solver
+pulp
+
+ollama>=0.1.5 

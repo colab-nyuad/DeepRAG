@@ -1,0 +1,4 @@
+Query: rock salt sodium content health effects
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: Rock Salt Powder contains sodium which has health effects on the heart. Too much sodium can raise blood pressure, dehydrate your body, stiffen your arteries, and affect blood clotting, all of which can be taxing on the heart.

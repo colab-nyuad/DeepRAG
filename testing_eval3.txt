@@ -1,0 +1,187 @@
+Query: rock salt sodium content health effects
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: Rock Salt Powder intake detoxifies the body by maintaining its pH balance. It improves hydration and replenishes the minerals in the body. It is also crucial for the body as it helps balance the blood sugar levels. The Rock Salt Powder is mostly red in color though its color may vary from light pink, orange, yellow or grey depending upon the amount and type of impurities present in it.
+Ground truth : Rock salt and sea salt are not healthier than regular salt as they contain the same amount of sodium chloride (100%). While sea salt may contain traces of other minerals, the levels are too low to provide any health benefits.
+{"jaccard": 0.14285714285714285, "bleu": 0.02596717172671313, "rouge1": 0.2201834862385321, "rouge2": 0.018691588785046728, "rougeL": 0.14678899082568805, "relevance": 1, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'rock salt sodium content health effects': 11.62 seconds
+
+-------------------------------------------------------
+
+Query: What is the scientific explanation for why men with many brothers are more likely to have sons themselves?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: A new study is currently looking at families and helping them determine whether they are more likely to have a boy or a girl. Scientists from Newcastle University found that men inherit from their parents a tendency to have more sons or more daughters. In simpler terms, a man with more brothers is likely to have sons, and a man with more sisters is likely to have a daughter. The study suggests that there may be an undiscovered gene that controls whether the sperm contains more X or Y chromosomes, thereby affecting the sex of the child.
+Ground truth : This occurs because men inherit from their parents a tendency to have more sons or daughters. The research suggests there may be an undiscovered gene that controls whether the sperm contains more X or Y chromosomes. Men with more brothers are likely to have inherited the genetic combination that produces more Y sperm, thus leading to more male offspring.
+{"jaccard": 0.4225352112676056, "bleu": 0.3143012142337321, "rouge1": 0.5641025641025641, "rouge2": 0.4025974025974027, "rougeL": 0.4230769230769231, "relevance": 1, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'What is the scientific explanation for why men with many brothers are more likely to have sons themselves?': 5.83 seconds
+
+-------------------------------------------------------
+
+Query: What causes performance anxiety?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: Performance anxiety is typically caused by a fear of not performing sexually, which can affect sexual activity in various ways. Factors such as fear of a first sexual encounter, relationship problems, sexual dysfunction, and low self-esteem can all contribute to performance anxiety. Once a person fears or feels anxious about sex, this preoccupation can lead to even less sexual interaction or avoidance of sex altogether.
+Ground truth : Performance anxiety is caused by stress and anxiety about performing in front of people. It stems from confronting fears and vulnerabilities, and feeling like you need to prove yourself to others. The body reacts to this situation similarly to being attacked, triggering the 'fight-or-flight' mechanism.
+{"jaccard": 0.18421052631578946, "bleu": 0.05251319803038118, "rouge1": 0.2831858407079646, "rouge2": 0.05405405405405405, "rougeL": 0.23008849557522124, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What causes performance anxiety?': 5.55 seconds
+
+-------------------------------------------------------
+
+Query: What are the key components needed in a five-light setup using ring flash for professional portrait photography?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: A five-light setup using ring flash for professional portrait photography typically includes the main ring light for primary illumination, a hair light to define the subject's hair and separate it from the background, a fill light to soften shadows and add depth, a background light to illuminate the backdrop evenly, and optionally, a rim light or catch light to enhance the subject's contours and add dimension to the portrait.
+Ground truth : The five-light setup consists of: 1) A 22-inch beauty dish as the main light, positioned close above the subject to create a triangle shadow under the nose; 2) An Alien Bees ring flash for fill light; 3) Two Creative Light 1'x4' softbox kickers with grids for controlled rim lighting, positioned 45 degrees to the rear of the subject; 4) An optional background light using a gridded speedlight at 1/32 power; and 5) A Westcott Illuminator Collapsible Disc Background (5'x6') which is reversible for black and white backgrounds.
+{"jaccard": 0.1724137931034483, "bleu": 0.041561820714884554, "rouge1": 0.40243902439024387, "rouge2": 0.12345679012345681, "rougeL": 0.20731707317073172, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What are the key components needed in a five-light setup using ring flash for professional portrait photography?': 5.82 seconds
+
+-------------------------------------------------------
+
+Query: What kind of students does the Creative Classrooms program mainly work with and why?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: Creative Classrooms primarily engages with English language learners and bilingual classrooms because they believe kinesthetic engagement paired with literature is capable of transcending language barriers in the classroom and developing a deep understanding of the given content. This approach helps these populations engage with literature in an enriching and empowering way.
+Error parsing Claude faithfulness evaluation: Expecting value: line 1 column 1 (char 0)
+Raw response: Based on the provided information, I will evaluate the faithfulness of the answer to the question using the given scale. Here is my assessment in JSON format:
+
+{
+  "faithfulness": 1
+}
+
+Explanation:
+The answer is fully supported by the retrieved passages. The key points in the answer are directly grounded in the information provided:
+
+1. Creative Classrooms primarily engages with English language learners and bilingual classrooms - This is explicitly stated in the passage: "We primarily engage with english language learners and bilingual classrooms"
+
+2. They believe kinesthetic engagement paired with literature can transcend language barriers - This is directly quoted from the passage: "we believe kinesthetic engagement paired with literature is capable of transcending language barriers in the classroom"
+
+3. The approach develops a deep understanding of the content - The passage states: "developing a deep understanding of the given content"
+
+4. This approach helps these populations engage with literature
+Ground truth : Creative Classrooms primarily engages with English language learners and bilingual classrooms. They focus on these populations because they believe kinesthetic engagement paired with literature can transcend language barriers in the classroom and help develop a deep understanding of the content. Through this approach, these student populations can engage with literature in an enriching and empowering way.
+{"jaccard": 0.7083333333333334, "bleu": 0.575173252500207, "rouge1": 0.8224299065420562, "rouge2": 0.6857142857142857, "rougeL": 0.8224299065420562, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'What kind of students does the Creative Classrooms program mainly work with and why?': 9.11 seconds
+
+-------------------------------------------------------
+
+Query: What are the key differences between disguised and undisguised observation methods when conducting research studies?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: Overt behaviors are open behaviors that can be seen by the naked eye, such as talking with a friend, dancing, playing music, playing a sport, or singing. Covert behaviors, on the other hand, cannot be seen and are hidden, like daydreaming or meditation, where one is in a transcendent state and no one can judge what's happening in their mind.
+Ground truth : In disguised observation, respondents are unaware they are being observed, using techniques like one-way mirrors, hidden cameras, or observers disguised as shoppers or sales clerks. In contrast, with undisguised observation, respondents are aware they are under observation.
+{"jaccard": 0.12307692307692308, "bleu": 0.03425588841512764, "rouge1": 0.22222222222222224, "rouge2": 0.0, "rougeL": 0.101010101010101, "relevance": -1, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What are the key differences between disguised and undisguised observation methods when conducting research studies?': 6.00 seconds
+
+-------------------------------------------------------
+
+Query: How do yeasts attract flies?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Yeasts attract flies by producing volatile acetate esters such as ethyl acetate, isoamyl acetate, and phenylethyl acetate, which have distinct aromas like pear, banana, and rose, respectively. These compounds are able to attract flies, which then act as vectors to disperse yeasts into new environments.
+Ground truth : Yeasts attract flies by producing volatile acetate esters, specifically ethyl acetate (pear aroma), isoamyl acetate (banana aroma), and phenylethyl acetate (rose aroma). These volatile compounds are key in attracting flies which then act as vectors to disperse yeasts into new environments.
+{"jaccard": 0.7, "bleu": 0.45043867442580166, "rouge1": 0.7674418604651163, "rouge2": 0.5476190476190476, "rougeL": 0.7209302325581395, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 100.0, "recall": 100.0, "f1": 100.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How do yeasts attract flies?': 5.29 seconds
+
+-------------------------------------------------------
+
+Query: What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?
+Number of Documents retrieved: 1
+Number of documents after re-ranking: 1
+Answer: Ghost plants, also known as Indian pipes, are unique among other plants due to their heterotrophic nature. Unlike most plants that use photosynthesis to generate energy, ghost plants rely on a symbiotic relationship with fungi in the soil to obtain nutrients. This allows them to grow without chlorophyll, resulting in their characteristic white coloration. Additionally, their ability to survive in low-light conditions and nutrient-poor soils sets them apart from many other plant species.
+Ground truth : The Ghost Plant, also known as Indian pipe or corpse plant, is unique because it contains no chlorophyll, which makes it appear completely white in color. It doesn't need light to grow and can survive in the darkest places. It's a parasitic plant that steals nutrients from neighboring plants through its roots and depends on specific fungi, trees, and decaying plant matter in the soil to survive.
+{"jaccard": 0.25842696629213485, "bleu": 0.12295562320066664, "rouge1": 0.37499999999999994, "rouge2": 0.12676056338028172, "rougeL": 0.22222222222222224, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@5": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@10": {"precision": 0.0, "recall": 0.0, "f1": 0.0}}
+Time taken for query 'What makes the Ghost Plant unique among other plants in terms of its survival mechanisms?': 6.68 seconds
+
+-------------------------------------------------------
+
+Query: How do Fizeau interferometer wavemeters work?
+Number of Documents retrieved: 3
+Number of documents after re-ranking: 3
+Answer: A Fizeau interferometer uses two plane reflecting surfaces with a slight deviation from exact parallelity, such as a glass wedge with a small angular mismatch. The front surface is partially reflecting, and the back surface is fully reflecting. In the context of wavemeters, this setup helps in precise wavelength measurements, particularly by analyzing the interference pattern created by the multiple reflections within the interferometer.
+Ground truth : A Fizeau interferometer wavemeter uses two plane reflecting surfaces with a slight deviation from exact parallelity, such as a glass wedge with small angular mismatch. It superimposes two copies of the input beam with a slight relative angle, creating an interference pattern whose period depends on the wavelength. The pattern is measured with a CCD array and processed using a microprocessor.
+{"jaccard": 0.40298507462686567, "bleu": 0.3585868794495829, "rouge1": 0.544, "rouge2": 0.3739837398373984, "rougeL": 0.48, "relevance": 2, "faithfulness": 1}
+{"@1": {"precision": 0.0, "recall": 0.0, "f1": 0.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How do Fizeau interferometer wavemeters work?': 5.95 seconds
+
+-------------------------------------------------------
+
+Query: How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?
+Number of Documents retrieved: 2
+Number of documents after re-ranking: 2
+Answer: To ensure that data stored in your memory palace remains uncorrupted and easily retrievable, regularly review and refresh your memory palace by revisiting the locations and data points. Consistent practice and repetition will strengthen your memory pathways, making the data more durable and accessible over time. Additionally, consider organizing the data in a logical and meaningful manner within your chosen physical space to facilitate easier recall.
+Error parsing Claude faithfulness evaluation: Expecting value: line 1 column 1 (char 0)
+Raw response: Based on the retrieved passages and the given answer, I will evaluate the faithfulness of the answer:
+
+{
+  "faithfulness": 0
+}
+
+Explanation (not part of the JSON response):
+The answer is partially supported by the retrieved passages. While some aspects of the answer are grounded in the passages, others are not directly mentioned or are extrapolations from the given information. 
+
+Supported elements:
+1. The idea of regular review is mentioned in the passages, particularly in the context of daily dashboards and checking systems.
+2. The concept of organizing data in a logical manner is implied in the description of creating a route through the memory palace.
+
+Unsupported or partially supported elements:
+1. The specific recommendation to "revisit the locations and data points" is not explicitly mentioned in the passages.
+2. The idea that "consistent practice and repetition will strengthen your memory pathways" is not directly stated in the given
+Ground truth : To ensure uncorrupted data storage in your memory palace, you should build concrete memories by exaggerating the images of stored items and having them interact with their spatial locations. It helps to add sensory information like smell and hearing cues to the imagery. Humor and lewdness can also assist with committing data to memory. You can test data retrieval by having a friend read the original list while you recite it by walking through your memory palace, or by restoring the data to paper and comparing it with the original list. If you find any failures, you can rebalance the pathways and loci of your palace to improve data retrieval.
+{"jaccard": 0.14, "bleu": 0.05150822322940327, "rouge1": 0.3409090909090909, "rouge2": 0.08045977011494253, "rougeL": 0.23863636363636367, "relevance": 2, "faithfulness": 0}
+{"@1": {"precision": 100.0, "recall": 100.0, "f1": 100.0}, "@3": {"precision": 33.33, "recall": 100.0, "f1": 50.0}, "@5": {"precision": 20.0, "recall": 100.0, "f1": 33.33}, "@10": {"precision": 10.0, "recall": 100.0, "f1": 18.18}}
+Time taken for query 'How can I ensure that the data stored in my memory palace remains uncorrupted and easily retrievable?': 9.67 seconds
+
+-------------------------------------------------------
+
+Average Retriever Metrics:
+{
+  "@1": {
+    "precision": 20.0,
+    "recall": 20.0,
+    "f1": 20.0
+  },
+  "@3": {
+    "precision": 16.665,
+    "recall": 50.0,
+    "f1": 25.0
+  },
+  "@5": {
+    "precision": 10.0,
+    "recall": 50.0,
+    "f1": 16.665
+  },
+  "@10": {
+    "precision": 5.0,
+    "recall": 50.0,
+    "f1": 9.09
+  }
+}
+
+-------------------------------------------------------
+
+Average Reader Metrics:
+{
+  "jaccard": 0.3254838970873243,
+  "bleu": 0.20272619459265,
+  "rouge1": 0.454191399557779,
+  "rouge2": 0.24133372422259156,
+  "rougeL": 0.3592500308617447,
+  "relevance": 1.5,
+  "faithfulness": 0.6
+}
+
+-------------------------------------------------------
+
+Total time taken for all queries: 71.53 seconds
+
+Average time per query: 7.15 seconds
+
